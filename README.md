@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard
 ## 📊 Project Overview
-This project features a Power BI dashboard designed to analyze and visualize Coca-Cola sales data effectively. The dashboard provides insights into operating profit, total sales, and other key metrics, enabling data-driven decision-making.
+This project demonstrates an interactive HR Analytics Dashboard built to provide insights into employee data, focusing on attrition trends, job satisfaction, and demographic breakdowns. It is designed to assist HR departments in understanding workforce dynamics, improving employee retention, and making informed decisions.
 
 ## 📂 Dataset used
 - <a href="HR Data.xlsx">Dataset</a>
